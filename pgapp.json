@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Picsew",
+        "bundleId": "com.sugarmootion.picsew",
+        "description": "专业的长截图和滚动截图工具，支持拼接、标注和PDF导出。iOS平台效率利器。",
+        "version": "3.8.2",
+        "downloadUrl": "https://apps.apple.com/app/id",
+        "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/.../icon.png"
+    },
+    {
+        "name": "Drafts",
+        "bundleId": "com.agiletortoise.Drafts",
+        "description": "快速文本捕获与自动化处理。强大的动作扩展，支持Markdown、JavaScript脚本。",
+        "version": "39.0",
+        "downloadUrl": "https://apps.apple.com/app/drafts/id",
+        "iconUrl": ""
+    },
+    {
+        "name": "Reeder 5",
+        "bundleId": "com.reederapp.rkit2.mac",
+        "description": "优雅的RSS阅读器，支持iCloud同步，整合Feedly、Inoreader等主流服务。",
+        "version": "5.2.4",
+        "downloadUrl": "https://reederapp.com",
+        "iconUrl": "https://reederapp.com/img/icon.png"
+    },
+    {
+        "name": "Mona",
+        "bundleId": "com.monaapp.mona",
+        "description": "原生Mastodon客户端，优雅设计、多账户支持，沉浸式时间线体验。",
+        "version": "3.2.1",
+        "downloadUrl": "https://apps.apple.com/app/id",
+        "iconUrl": ""
+    },
+    {
+        "name": "iSH Shell",
+        "bundleId": "ish.app",
+        "description": "iOS上的Linux shell环境。运行Alpine Linux，支持apk包管理。",
+        "version": "1.3.1",
+        "downloadUrl": "https://apps.apple.com/app/ish-shell/id",
+        "iconUrl": "https://ish.app/icon.png"
+    },
+    {
+        "name": "Code App",
+        "bundleId": "com.holzschu.ios_system",
+        "description": "iOS/iPadOS 原生代码编辑器，支持Node.js、Python、C等编译运行。",
+        "version": "3.8",
+        "downloadUrl": "https://code.app/",
+        "iconUrl": ""
+    }
+]
