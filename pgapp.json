@@ -3,7 +3,7 @@
         "name": "Picsew",
         "bundleId": "com.sugarmootion.picsew",
         "description": "专业的长截图和滚动截图工具，支持拼接、标注和PDF导出。iOS平台效率利器。",
-        "version": "更新时间:5.04",
+        "updateDate": "2025-03-15",
         "downloadUrl": "https://apps.apple.com/app/id",
         "tutorial": "✨ Picsew 变身教程 ✨\n\n📖 核心功能：滚动截图、长图拼接、PDF导出\n\n🔧 进阶玩法：\n1. 使用「滚动截图」录制整个网页或聊天记录\n2. 利用「标注工具」添加箭头、文字和马赛克\n3. 一键导出为PDF，支持多页面合并\n\n💡 隐藏技巧：\n- 摇一摇手机可快速撤销上一步操作\n- 长按截图区域可调出放大镜精细裁剪"
     },
@@ -11,7 +11,7 @@
         "name": "Drafts",
         "bundleId": "com.agiletortoise.Drafts",
         "description": "快速文本捕获与自动化处理。强大的动作扩展，支持Markdown、JavaScript脚本。",
-        "version": "39.0",
+        "updateDate": "2025-04-02",
         "downloadUrl": "https://apps.apple.com/app/drafts/id",
         "tutorial": "✨ Drafts 变身教程 ✨\n\n📖 核心功能：快速捕捉灵感、文本自动化处理\n\n🔧 进阶玩法：\n1. 创建「动作」一键发布到博客、微博或备忘录\n2. 使用JavaScript编写自定义脚本处理文本\n3. 设置标签和工作区，管理不同类型的草稿\n\n💡 隐藏技巧：\n- 键盘上滑可快速呼出常用动作菜单\n- 使用「草稿模板」重复生成相同格式的内容"
     },
@@ -19,7 +19,7 @@
         "name": "Reeder 5",
         "bundleId": "com.reederapp.rkit2.mac",
         "description": "优雅的RSS阅读器，支持iCloud同步，整合Feedly、Inoreader等主流服务。",
-        "version": "5.2.4",
+        "updateDate": "2024-11-20",
         "downloadUrl": "https://reederapp.com",
         "tutorial": "✨ Reeder 5 变身教程 ✨\n\n📖 核心功能：RSS订阅、稍后阅读、多服务整合\n\n🔧 进阶玩法：\n1. 同时接入Feedly、Inoreader、FreshRSS等多个账号\n2. 使用「分享扩展」将文章保存到Notion或Evernote\n3. 设置「阅读模式」自定义字体和背景\n\n💡 隐藏技巧：\n- 双指左右滑动快速切换文章\n- 摇动手机随机打开一篇未读文章"
     },
@@ -27,7 +27,7 @@
         "name": "Mona",
         "bundleId": "com.monaapp.mona",
         "description": "原生Mastodon客户端，优雅设计、多账户支持，沉浸式时间线体验。",
-        "version": "3.2.1",
+        "updateDate": "2025-03-28",
         "downloadUrl": "https://apps.apple.com/app/id",
         "tutorial": "✨ Mona 变身教程 ✨\n\n📖 核心功能：Mastodon社交、多账户切换、时间线过滤\n\n🔧 进阶玩法：\n1. 创建「列表」分组关注不同领域的内容\n2. 设置「静音词」过滤不想看到的话题\n3. 使用「自定义emoji」丰富互动体验\n\n💡 隐藏技巧：\n- 长按嘟文可快速引用或翻译\n- 向下拉时间线可刷新并显示新内容数"
     },
@@ -35,7 +35,7 @@
         "name": "iSH Shell",
         "bundleId": "ish.app",
         "description": "iOS上的Linux shell环境。运行Alpine Linux，支持apk包管理。",
-        "version": "1.3.1",
+        "updateDate": "2025-02-10",
         "downloadUrl": "https://apps.apple.com/app/ish-shell/id",
         "tutorial": "✨ iSH Shell 变身教程 ✨\n\n📖 核心功能：Alpine Linux终端、apk包管理、文件系统操作\n\n🔧 进阶玩法：\n1. 安装python3、git、vim等开发工具\n2. 通过SSH连接远程服务器\n3. 编写shell脚本自动化iOS本地任务\n\n💡 隐藏技巧：\n- 使用 `apk add` 安装命令行工具\n- 将脚本保存到 `~/Documents` 可通过文件App访问"
     },
@@ -43,7 +43,7 @@
         "name": "Code App",
         "bundleId": "com.holzschu.ios_system",
         "description": "iOS/iPadOS 原生代码编辑器，支持Node.js、Python、C等编译运行。",
-        "version": "3.8",
+        "updateDate": "2025-01-18",
         "downloadUrl": "https://code.app/",
         "tutorial": "✨ Code App 变身教程 ✨\n\n📖 核心功能：代码编辑、多语言编译运行、Git集成\n\n🔧 进阶玩法：\n1. 使用内置终端安装npm包或pip库\n2. 连接GitHub进行版本控制和同步\n3. 利用「代码片段」快速插入常用模板\n\n💡 隐藏技巧：\n- 三指轻点可撤销/重做编辑\n- 长按运行按钮可选择不同执行环境"
     }
